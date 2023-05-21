@@ -10,6 +10,9 @@ Observer pattern has been used to implement this. Its brief working is explained
 2. The notification from the subject updates the values at the observers like Face Cartographer to process the image for face recognition.
 
 
+![image](https://github.com/Sushant369/Survivor_Buddy_Hybrid_Delibrative-Reactive_Architecture_for_subsystems/assets/72655705/09c13ced-0368-4ccc-87f6-91bdc5fc77b2)
+
+
 ![image](https://github.com/Sushant369/Survivor_Buddy_Hybrid_Delibrative_Architecture/assets/72655705/0b068cbf-4bcc-4741-837c-a36b129a8cf4)
 
 ![image](https://github.com/Sushant369/Survivor_Buddy_Hybrid_Delibrative_Architecture/assets/72655705/c9fa8568-346b-460e-87c7-2901c51187cd)
